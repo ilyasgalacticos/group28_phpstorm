@@ -7,6 +7,7 @@
 <body>
     <?php
         echo "ABOUT";
+        echo "TEST";
     ?>
 </body>
 </html>
