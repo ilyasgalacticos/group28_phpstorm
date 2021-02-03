@@ -8,6 +8,7 @@
     <?php
         echo "ABOUT";
         echo "TEST";
+        echo "NEW COMMIT";
     ?>
 </body>
 </html>
