@@ -7,6 +7,7 @@
 <body>
     <?php
         echo "TEST";
+        echo "INDEX CHANGED";
     ?>
 </body>
 </html>
